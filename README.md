@@ -12,7 +12,7 @@ This week we were given starter code that included the HTML and CSS files but ne
 
 * I started updating the java script file by adding the current date to the page using jquery and dayjs to get the proper format.
 
-* I then created my first function containing if statements comparing time sections to actual time to decide weather its past, present, or future, aka weather the section is going to me grey(past), red(present), or green(future).
+* I then created my first function containing if statements comparing time sections to actual time to decide weather its past, present, or future, aka weather the section is going to me grey(past), light-blue(present), or dark-blue(future).
 
 * I then created another function for the save button so when the user saves their to do task, its saved in localStorage and stays on the application if its refreshed.
 
