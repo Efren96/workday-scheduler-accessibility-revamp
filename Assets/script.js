@@ -2,6 +2,7 @@
 //current date 
 $('#currentDay').text(dayjs().format('dddd, MMMM, D'));
 
+
 //compares time sections to actual time to decide weather its past, present, or future
 $('.time-block').each(function () {
   var timeSections = $(this).attr("id").split("-")[1];
