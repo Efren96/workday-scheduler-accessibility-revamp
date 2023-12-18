@@ -23,4 +23,4 @@ This week we were given starter code that included the HTML and CSS files but ne
 > **Workday Sceduler Deployed Page Link**: 
 
 ### Screenshot
-<img src="./">
+<img src="./Assets/Images/Workday Scheduler Screenshot.png">
