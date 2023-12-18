@@ -20,7 +20,7 @@ This week we were given starter code that included the HTML and CSS files but ne
 
 * Finally, once i felt like the application met all the criteria, i pushed it to GitHub.
 
-> **Workday Sceduler Deployed Page Link**: 
+> **Workday Sceduler Deployed Page Link**: https://efren96.github.io/workday-scheduler-accessibility-revamp/
 
 ### Screenshot
 <img src="./Assets/Images/Workday Scheduler Screenshot.png">
